@@ -1,4 +1,5 @@
-# 🔹 EPA | Experiencias Personales Agiles 😀 
+BIENVENIDOS
+# 🔹 Startup | HealthTech | Wellness | EPA | Experiencias Personales Agiles 😀 
 ## 🔸 Descripción General:
 Inteligencia que une a las personas con sus objetivos de bienestar.
 
