@@ -1,6 +1,7 @@
-BIENVENIDOS
-# 🔹 Startup | HealthTech | Wellness | EPA | Experiencias Personales Agiles 😀 
-## 🔸 Descripción General:
+
+# 🔹 Bienvenidos a EPA Bienestar 😀 [Startup]
+## 🔸 Lifestyles of Health and Sustainability (LOHAS) and wellnessDescripción General:
+Descripción General:
 Inteligencia que une a las personas con sus objetivos de bienestar.
 
 ![Image text](https://www.epa-bienestar.com/assets/img/RoadMap-EPA-Bienestar.jpg)
