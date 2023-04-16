@@ -2,6 +2,7 @@
 ## 🔸 Descripción General:
 Inteligencia que une a las personas con sus objetivos de bienestar.
 
+![Image text](https://www.epa-bienestar.com/assets/img/RoadMap-EPA-Bienestar.jpg)
 🔸**Conceptos:**
 - Salud Digital Siglo XXI = mHealth | OpenmHealth | HL7® FHIR® | Interoperabilidad | APIs | Cloud Múltiples.
 - Determinantes de Salud [50%] Hábitos y Estilos de vida [Decisiones Personales + Entorno y contextos]. 
