@@ -1,6 +1,6 @@
 
 # 🔹 Bienvenidos a EPA Bienestar 😀 [Startup]
-## 🔸 Lifestyles of Health and Sustainability (LOHAS) and wellnessDescripción General:
+## 🔸 Lifestyles of Health and Sustainability (LOHAS) and wellness
 Descripción General:
 Inteligencia que une a las personas con sus objetivos de bienestar.
 
