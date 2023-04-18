@@ -2,7 +2,7 @@
 # 🔹 Bienvenidos a EPA Bienestar 😀 [Startup]
 ## 🔸 Lifestyles of Health and Sustainability (LOHAS) and wellness
 Roadmap:
-![Image text](https://www.epa-bienestar.com/assets/img/RoadMap-EPA-Bienestar.jpg)
+![Image text](https://github.com/drdalessandro/imagenes/blob/main/RoadMap-EPA-Bienestar.png)
 🔸**EPA**
 Experiencias Personales Agiles y Estrategiasd Personalizas de Aprendizaje.
 
