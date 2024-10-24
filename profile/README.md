@@ -1,18 +1,14 @@
 
-# 🔹 Bienvenidos a EPA Bienestar 😀 [Startup]
-## 🔸 Lifestyles of Health and Sustainability (LOHAS) and wellness
+# 🔹 Bienvenidos a EPA Bienestar IA [Startup]
+## 🔸 Promover vidas saludables en genereaciones futuras con altos niveles de auto realización
 Roadmap:
 ![Image text](https://github.com/drdalessandro/imagenes/blob/main/RoadMap-EPA-Bienestar.png)
 
-- GCP Google Cloud Platform para #Datos hacia Firebase desde las App iOS & Android.
-- AWS Amazon Web Services para #Datos PostgreSQL + Redis.
-- GCP Google Cloud Platfom para #Datos hacia MySQL desde los Registros Electrónicos Médicos Interoperables #FHIR R4.
-
-
 🔸**EPA**
-Experiencias Personales Agiles y Estrategiasd Personalizas de Aprendizaje.
+Experiencias Personales Agiles y Estrategias Personalizas de Aprendizaje.
 
 🔸** Conceptos **
+- Prevención Cardiovascular Primordial
 - Salud Digital Siglo XXI = mHealth | OpenmHealth | HL7® FHIR® | Interoperabilidad | APIs | Cloud Múltiples.
 - Determinantes de Salud [50%] Hábitos y Estilos de vida [Decisiones Personales + Entorno y contextos]. 
 - Bienestar 8 Dimensiones
@@ -29,4 +25,4 @@ Experiencias Personales Agiles y Estrategiasd Personalizas de Aprendizaje.
 - HTML
 
 📌***NOTAS***: 
-OpenSource en todos los proyectos.
+OpenSource Apache 2.0
