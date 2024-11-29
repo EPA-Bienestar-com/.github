@@ -2,7 +2,7 @@
 # 🔹 Bienvenidos a EPA Bienestar IA [Startup]
 ## 🔸 Promover vidas saludables en genereaciones futuras con altos niveles de auto realización
 Roadmap:
-![Image text](https://github.com/drdalessandro/imagenes/blob/main/RoadMap-EPA-Bienestar.png)
+![Image text](https://[github.com/drdalessandro/imagenes/blob/main/RoadMap-EPA-Bienestar.png](https://raw.githubusercontent.com/EPA-Bienestar-com/epa/refs/heads/master/EPA_Bienestar_IA_HealthTech.png))
 
 🔸**EPA**
 Experiencias Personales Agiles y Estrategias Personalizas de Aprendizaje.
